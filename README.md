@@ -3,7 +3,7 @@ I am currently a student at Oberlin College and like to code for fun.
 
 ## About Me
 - 🌱 I'm currently learning probabalistic modeling and machine learning
-- 📘 I'm currenly reading 三体II：[黑暗森林](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93II%EF%BC%9A%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97)
+- 📘 I'm currenly reading: [黑暗森林](https://zh.wikipedia.org/wiki/%E4%B8%89%E4%BD%93II%EF%BC%9A%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97)
 - 😄 Pronouns: he/him/his
 
 <!--
