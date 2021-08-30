@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello! I am Nathan Englehart
+I am currently a student at Oberlin College and like to code for fun.
+
+## About Me
+- 🌱 I’m currently learning probabalistic modeling and machine learning
+- 🏳️‍⚧️ Pronouns: he/him/his
 
 <!--
 **nathanenglehart/nathanenglehart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
