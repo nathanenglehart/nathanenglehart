@@ -4,7 +4,6 @@ I'm currently a third year student at Oberlin College and like to code for fun.
 ## About Me
 - 🌱 I'm currently learning: probabalistic modeling and machine learning
 - 📝 I'm very interested in: GNU/Linux and [free software](https://www.gnu.org/philosophy/free-sw.html)
-- 📘 I'm currenly reading: [Red Mars](https://en.wikipedia.org/wiki/Mars_trilogy#Red_Mars_%E2%80%93_Colonization) by Kim Stanley Robinson
 - 😄 Pronouns: he/him/his
 
 <!--
@@ -20,6 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📘 I'm currenly reading: [Red Mars](https://en.wikipedia.org/wiki/Mars_trilogy#Red_Mars_%E2%80%93_Colonization) by Kim Stanley Robinson
+
 -->
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=nathanenglehart&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
