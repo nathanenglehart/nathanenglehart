@@ -4,7 +4,7 @@ I'm currently a third year student at Oberlin College studying mathematics and h
 ## About Me
 - 🌱 I'm currently learning about: probabalistic modeling and machine learning
 - 📝 I'm very interested in: GNU/Linux and [free software](https://www.gnu.org/philosophy/free-sw.html)
-- 😄 My pronouns are: he/him/his
+- 😄 Pronouns: he/him/his
 
 <!--
 **nathanenglehart/nathanenglehart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
