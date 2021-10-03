@@ -1,9 +1,9 @@
 ## Hello! I'm Nathan Englehart 👋
-I'm currently a third year student at Oberlin College studying mathematics and history, and I like to code for fun!
+I'm currently a third year student at Oberlin College and I like to code for fun!
 
 ## About Me
 - 🌱 I'm currently learning about: probabalistic modeling and machine learning
-- 📝 I'm very interested in: GNU/Linux and [free software](https://www.gnu.org/philosophy/free-sw.html)
+- 📝 I'm very interested in: GNU + Linux
 - 😄 Pronouns: he/him/his
 
 <!--
