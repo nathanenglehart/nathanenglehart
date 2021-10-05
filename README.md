@@ -2,8 +2,8 @@
 I'm currently a third year student at Oberlin College and I like to code for fun!
 
 ## About Me
-- 🌱 I'm currently learning about: probabalistic modeling and machine learning
-- 📝 I'm very interested in: GNU + Linux and Free Software
+- 🌱 I'm currently learning about: Supervised and Unsupervised Machine Learning
+- 📝 I'm very interested in: GNU + Linux
 - 😄 Pronouns: he/him/his
 
 <!--
