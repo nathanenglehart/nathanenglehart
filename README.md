@@ -1,26 +1,11 @@
-## Hello! I'm Nathan Englehart 👋
-I'm currently a third year student at Oberlin College and I like to code for fun!
-
-## About Me
-- 🌱 I'm currently learning about: Probabalistic Machine Learning
-- 📝 I'm very interested in: GNU + Linux
-- 😄 Pronouns: he/him/his
-
-<!--
-**nathanenglehart/nathanenglehart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📘 I'm currenly reading: [Red Mars](https://en.wikipedia.org/wiki/Mars_trilogy#Red_Mars_%E2%80%93_Colonization) by Kim Stanley Robinson
-
--->
-<br>
+### Status
 <img src="https://github-readme-stats.vercel.app/api?username=nathanenglehart&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
+### Languages and Tools
+[<img align="left" alt="GNU/Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://github.com/nathanenglehart)
+<!-- <span class="fl-artix"></span> -->
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://github.com/nathanenglehart)
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/nathanenglehart)
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://github.com/nathanenglehart)
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://github.com/nathanenglehart)
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />](https://github.com/nathanenglehart)
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/nathanenglehart)
