@@ -1,3 +1,5 @@
+### About
+Current undergraduate with triple major in Mathematics, History, and East Asian Studies.
 ### Status
 <img src="https://github-readme-stats.vercel.app/api?username=nathanenglehart&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
 ### Languages and Tools
