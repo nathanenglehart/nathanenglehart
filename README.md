@@ -1,5 +1,6 @@
-### Status
-<img src="https://github-readme-stats.vercel.app/api?username=nathanenglehart&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></img>
+### About
+My name is Nathan Englehart (he/him/his). I am from Toledo, Ohio and attend university at Oberlin College. Currently, I am completing a Bachelor of Arts degree with three majors in mathematics, history, and East Asian studies. 
+
 ### Languages and Tools
 [<img align="left" alt="GNU/Linux" width="26px" src="https://nathanenglehart.github.io/icons/linux.png" />](https://github.com/nathanenglehart)
 <!-- <span class="fl-artix"></span> -->
