@@ -1,5 +1,5 @@
 ### About
-My name is Nathan Englehart (he/him/his). I am from Toledo, Ohio and attend university at Oberlin College. Currently, I am completing a Bachelor of Arts degree with three majors in mathematics, history, and East Asian studies. 
+My name is Nathan Englehart (he/him/his). I am from Toledo, Ohio and attend university at Oberlin College.
 
 ### Languages and Tools
 [<img align="left" alt="GNU/Linux" width="26px" src="https://nathanenglehart.github.io/icons/linux.png" />](https://github.com/nathanenglehart)
