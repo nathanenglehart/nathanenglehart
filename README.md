@@ -1,5 +1,5 @@
 ### About
-My name is Nathan Englehart (he/him/his). I am from Toledo, Ohio and attend university at Oberlin College.
+My name is Nathan Englehart (he/him/his). I am from Toledo, Ohio and recently graduated from Oberlin College. Currently I work at the Oakleaf Group in the data analytics and modeling department. 
 
 ### Languages and Tools
 [<img align="left" alt="GNU/Linux" width="26px" src="https://nathanenglehart.github.io/icons/linux.png" />](https://github.com/nathanenglehart)
