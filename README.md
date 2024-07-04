@@ -1,5 +1,5 @@
 ### About
-Hello! My name is Nathan Englehart (he/him/his). I am from Toledo, Ohio and recently graduated from Oberlin College. I am an incoming political science PhD student at Washington University in Saint Louis currently working at the Oakleaf Group in the data analytics and modeling department. 
+Hello! My name is Nathan Englehart (he/him/his) and I am a political science PhD student at Washington University in Saint Louis.
 
 ### Languages and Tools
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/nathanenglehart)
